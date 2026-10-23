@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+nbformat>=4.2.0
